@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local database and state
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# Downloaded torrent files
+/torrents/
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+pyenv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private config or hidden files
+.env
+secret.json
