@@ -5,9 +5,9 @@ OpenCD Subsidy Hunter is a lightweight Python automation tool designed for **Ope
 ## 🌟 Key Features
 
 - **Storage Minimized**: Specifically filters for torrents between **300MB and 400MB** to ensure high bonus efficiency with minimal storage impact.
-- **Urgent Seeding Focus**: Automatically scrapes the **"Seeder Needed" (seeders=6)** list to ensure a high yield of **Bonus Points (Karma) per hour**..
-- **Smart Filtering**: Only downloads torrents with the `Free` tag.
-- **Anti-Duplication**: Built-in SQLite database to prevent re-downloading the same torrent.
+- **Urgent Seeding Focus**: Automatically scrapes the **"Seeder Needed" (seeders=6)** list to ensure a high yield of **Bonus Points per hour**.
+- **Filtering**: Only downloads torrents with the `Free` tag.
+- **No Duplication**: Built-in SQLite database to prevent re-downloading the same torrent.
 - **Safety**: Implements a **20-second interval** between torrent downloads to mimic human behavior and avoid account risks.
 
 ## 🛠️ Requirements
@@ -19,7 +19,7 @@ OpenCD Subsidy Hunter is a lightweight Python automation tool designed for **Ope
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/opencd-subsidy-hunter.git](https://github.com/yourusername/opencd-subsidy-hunter.git)
+   git clone https://github.com/PerkeoLau/OpenCD-Subsidy-Hunter.git
    cd opencd-subsidy-hunter
 2. **Install dependencies：**
    ```bash
