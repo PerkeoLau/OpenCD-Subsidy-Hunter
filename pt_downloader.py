@@ -14,7 +14,7 @@ DB_FILE = 'downloaded_torrents.db'
 LOG_FILE = 'pt_downloader.log'
 
 # 填入你刚才转换好的 Cookie 字典
-COOKIE_STRING = "_ga=GA1.1.849420650.1776260098; _ga_J6J9PS1H9S=GS2.1.s1777444108$o12$g1$t1777444621$j52$l0$h0; c_lang_folder=cht; c_secure_login=bm9wZQ%3D%3D; c_secure_pass=7809bcf53e089175c34c71029ecb6580; c_secure_ssl=eWVhaA%3D%3D; c_secure_tracker_ssl=eWVhaA%3D%3D; c_secure_uid=ODU1ODg%3D"
+COOKIE_STRING = "your cookie"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15',
